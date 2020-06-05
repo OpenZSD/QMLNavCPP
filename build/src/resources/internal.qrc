@@ -1,5 +1,8 @@
 <!DOCTYPE RCC><RCC version="1.0">
 <qresource prefix="/img">
     <file>banner.png</file>
+    <file>icon.png</file>
+    <file>pallet.png</file>
+    <file>componentDesign.png</file>
 </qresource>
 </RCC>

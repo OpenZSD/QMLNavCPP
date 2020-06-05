@@ -19,7 +19,7 @@ Banner::Banner()
 void Banner::presentBanner()
 {
     show();
-    QTimer::singleShot(5000, [this](){
+    QTimer::singleShot(2000, [this](){
         this->hideBanner();
     });
 }

@@ -1,0 +1,8 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/qml">
+    <file>TestBlock.qml</file>
+    <file>InternalPalette.js</file>
+    <file>SelectionButton.qml</file>
+    <file>SectionList.qml</file>
+</qresource>
+</RCC>

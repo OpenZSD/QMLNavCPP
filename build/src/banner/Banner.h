@@ -2,6 +2,8 @@
 
 class Banner : public QSplashScreen
 {
+    Q_OBJECT
+
 public:
     enum BannerValues
     {
